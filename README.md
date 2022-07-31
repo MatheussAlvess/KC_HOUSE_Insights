@@ -20,6 +20,8 @@ The CEO of KC House held a meeting and the company's metrics were discussed. The
 
 2 - Once purchased, when is the best period to sell?
 
+3 - Want to access purchase suggestions remotely.
+
 
 ## Solution Planning
 
@@ -74,19 +76,39 @@ And the following conditions of sale:
 
 #### Hypotheses and results:
 
-|Hypothesis  |  Conclusion  |  Relevance|
-|----------- | ----------- | ------------|
-|H1          | True       | Low |
-|H2          | False       | Medium |
-|H3          | False  | High |
-|H4          | False  | Medium |
-|H5          | True  | Low |
-|H6          | True  | Medium |
-|H7          | False  | Medium |
-|H8          | True  | High |
-|H9          | False  | Medium |
-|H10         | False  | High |
+|Hypothesis  |  Conclusion  |  Relevance  |
+|----------- | -----------  | ------------|
+|H1          | True         | Low         |
+|H2          | False        | Medium      |
+|H3          | False        | High        |
+|H4          | False        | Medium      |
+|H5          | True         | Low         |
+|H6          | True         | Medium      |
+|H7          | False        | Medium      |
+|H8          | True         | High        |
+|H9          | False        | Medium      |
+|H10         | False        | High        |
 
 
 ## Correlation
+
+#### Numeric - Pearson Correlation
+<p align="center">
+  <img src="images/corr.png"/>
+</p>
+
+## Results
+
+* Answering questions
+  - The purchase suggestion was created following the solution assumptions.
+  - 4025 homes were suggested for purchase
+  - The total profit is $401,706,161.00 
+  - The profit percentage is 23.60%
+  - Best time to sell is spring and summer or first semester of year
+  - To access remotely, a dashboard was created and deployed using heroku 
+
+## Deploy
+
+- Link: https://analytics-kc-house.herokuapp.com/
+- 
 
