@@ -1,6 +1,7 @@
 # Project KC House - Insights
 
 ### This project is an insight study based on public real estate data from KC House provided by Kaggle. The project is not intended to propose solutions for the company, being only an object of demonstration of analytical skills.
+- Dataset Link: https://www.kaggle.com/datasets/shivachandel/kc-house-data
 
 <p align="center">
   <img src="images/wall.jfif"/>
