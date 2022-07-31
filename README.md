@@ -110,5 +110,22 @@ And the following conditions of sale:
 ## Deploy
 
 - Link: https://analytics-kc-house.herokuapp.com/
-- 
+
+<p align="center">
+  <img src="images/i3.jpeg"/>
+</p>
+
+<p align="center">
+  <img src="images/i4.jpeg"/>
+</p>
+
+<p align="center">
+  <img src="images/i1.jpeg"/>
+</p>
+
+<p align="center">
+  <img src="images/i2.jpeg"/>
+</p>
+
+
 
